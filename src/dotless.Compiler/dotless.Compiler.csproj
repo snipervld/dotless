@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>net461</TargetFrameworks> 
+    <TargetFrameworks>net48</TargetFrameworks> 
     <Company>dotless project</Company>
     <Product>dotless.Compiler</Product>
     <Copyright>Copyright © dotless 2010-2018</Copyright>

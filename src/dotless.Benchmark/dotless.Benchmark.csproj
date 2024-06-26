@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFrameworks>net461</TargetFrameworks>    
+    <TargetFrameworks>net48</TargetFrameworks>    
     <Company>dotless project</Company>
     <Product>dotless.Benchmark</Product>
     <Copyright>Copyright © dotless 2010-2012</Copyright>
