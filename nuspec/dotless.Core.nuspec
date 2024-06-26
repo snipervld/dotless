@@ -1,21 +1,21 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>dotless.Core</id>
+    <id>snipervld.dotless.Core</id>
     <title>Dynamic CSS for .net</title>
     <version>$version$</version>
     <authors>Daniel Hölbling, James Foster, Luke Page</authors>    
-    <licenseUrl>https://github.com/dotless/dotless/blob/master/license.txt</licenseUrl>
-    <projectUrl>https://github.com/dotless/dotless</projectUrl>
+    <licenseUrl>https://github.com/snipervld/dotless/blob/master/license.txt</licenseUrl>
+    <projectUrl>https://github.com/snipervld/dotless</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
 	<summary>Library to compile LESS files to CSS</summary>
     <description>Core features to compile LESS files to CSS.
 	
 	This is a project to port the hugely useful Less library to the .NET world. It give variables, nested rules and operators to CSS.
 
-For more information about the original Less project see http://lesscss.org/ or http://github.com/dotless/dotless. For more information about how to get started with the .NET version see http://www.dotlesscss.org/.</description>
+For more information about the original Less project see http://lesscss.org/ or http://github.com/snipervld/dotless. For more information about how to get started with the .NET version see http://www.dotlesscss.org/.</description>
 	<tags>less css compile dotnet</tags>
-	<repository type="git" url="https://github.com/dotless/dotless" />
+	<repository type="git" url="https://github.com/snipervld/dotless" />
 	
 	<dependencies>
 		<group targetFramework=".NETFramework4.8">
